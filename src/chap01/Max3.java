@@ -2,8 +2,7 @@ package chap01;
 
 import java.util.Scanner;
 
-public class Max3 {
-	// 3개의 정숫값을 입력하고 최댓값 구하기
+public class Max3 {	// 3개의 정숫값을 입력하고 최댓값 구하기
 public static void main(String[] args) {
 	Scanner stdIn = new Scanner(System.in);
 
@@ -17,5 +16,5 @@ public static void main(String[] args) {
 	if (c>max) max = c;
 	
 	System.out.println("최댓값은" + max + "입니다");
-}
+	}
 }
