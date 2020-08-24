@@ -1,5 +1,5 @@
 package chap01;
-
+//20.08.25
 import java.util.Scanner;
 
 public class SumForPos { // 1부터 n까지의 합. 양수만 입력받기.
